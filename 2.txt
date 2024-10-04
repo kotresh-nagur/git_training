@@ -1,2 +1,6 @@
 Kotreshi SN GMIT Davangere
+<<<<<<< Updated upstream
 Department 
+=======
+Department of CSE
+>>>>>>> Stashed changes
